@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LinkedIn</string>
+    <string name="user">User</string>
+    <string name="password">Password</string>
+    <string name="login">Log In</string>
+    <string name="slogan">Stay up to date with your professional world</string>
+    <string name="title">Log In</string>
+    <string name="logout">Log Out</string>
+    <string name="programmer">Programmer</string>
+    <string name="application_logo">application logo</string>
+    <string name="aboutlinkedin">"Founded in 2003, LinkedIn connects the world's professionals to make them more productive and successful. With more than 1 billion members worldwide, including executives from every Fortune 500 company, LinkedIn is the world's largest professional network. The company has a diversified business model with revenue coming from Talent Solutions, Marketing Solutions, Sales Solutions and Premium Subscriptions products. Headquartered in Silicon Valley, LinkedIn has offices across the globe."</string>
+    <string name="call">Call</string>
+    <string name="sendemail">Send Email</string>
+</resources>

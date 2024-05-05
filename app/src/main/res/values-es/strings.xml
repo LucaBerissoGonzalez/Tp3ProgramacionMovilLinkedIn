@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LinkedIn</string>
+    <string name="user">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="slogan">Mantente al día de tu mundo profesional</string>
+    <string name="title">Iniciar Sesión</string>
+    <string name="logout">Cerrar Sesión</string>
+    <string name="programmer">Programador</string>
+    <string name="application_logo">logo de la aplicación</string>
+    <string name="aboutlinkedin">Fundada en 2003, LinkedIn conecta a los profesionales de todo el mundo para hacerlos más productivos y exitosos. Con más de mil millones de miembros en todo el mundo, incluidos ejecutivos de todas las empresas Fortune 500, LinkedIn es la red profesional más grande del mundo. La empresa tiene un modelo de negocio diversificado con ingresos provenientes de soluciones de talento, soluciones de marketing, soluciones de ventas y productos de suscripciones premium. LinkedIn, con sede en Silicon Valley, tiene oficinas en todo el mundo.</string>
+    <string name="call">Llamar</string>
+    <string name="sendemail">Enviar Gmail</string>
+</resources>
